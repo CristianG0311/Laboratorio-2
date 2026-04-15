@@ -124,6 +124,7 @@ Al finalizar el laboratorio, se obtuvo Laravel corriendo exitosamente con el sis
   
  ![image alt]( https://github.com/CristianG0311/Laboratorio-2/blob/81844f889d0ddac577ca58a54552bf59fed4bca8/Captura%20de%20pantalla%202026-04-12%20192815.png
 )
+ ![image alt](https://github.com/CristianG0311/Laboratorio-2/blob/cb46f08c90ba3c5c79ccabe66e9be7e39f92dd81/Captura%20de%20pantalla%202026-04-12%20193249.png)
 
 
 ##  Dificultades y Soluciones

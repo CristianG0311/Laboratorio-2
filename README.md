@@ -16,7 +16,7 @@ Implementar un sistema de autenticación (Login y Registro) en Laravel, exploran
 
 Laravel organiza el código bajo el patrón **Modelo–Vista–Controlador (MVC)**, que separa las responsabilidades en tres capas:
 
-
+```
 LABORATORIO2/
 ├── app/
 │   ├── Http/
@@ -109,8 +109,6 @@ php artisan config:clear      # Limpia la caché de configuración
 php artisan config:cache      # Regenera la caché de configuración
 ```
 
->  El backup de la base de datos se encuentra en el archivo `backup_laboratorio2.sql` en este repositorio.
-
 ---
 
 ##  Resultado del Laboratorio
@@ -132,7 +130,7 @@ Al finalizar el laboratorio, se obtuvo Laravel corriendo exitosamente con el sis
 | Dificultad | Solución Aplicada |
 |---|---|
 | `Nothing to migrate` al correr `php artisan migrate` | No era un error — las migraciones ya habían sido ejecutadas previamente. Las tablas ya existían en la base de datos. |
-| Página sin estilos CSS al abrir el navegador | Vite estaba en modo desarrollo. Se solucionó corriendo `npm run dev` en una terminal paralela mientras corre `php artisan serve`. |
+| Un problema con la version de php que me pedia usar una version nueva que ya tenia pero no me la reconocia | Se soluciono borrando la carpeta de la version 8.1.33 de la carpeta de php . |
 | Pregunta al correr `php artisan ui bootstrap --auth` sobre reemplazar `Controller.php` | Se respondió `yes` para reemplazar el archivo y continuar con la generación del scaffolding. |
 
 
@@ -156,6 +154,8 @@ Al finalizar el laboratorio, se obtuvo Laravel corriendo exitosamente con el sis
 
 
   **Nombre:** Cristian Gonzalez  
+  **Cedula:** 8-1020-424
+  **grupo** 1GS132
   **Correo:** cristia.gonzalez7@utp.ac.pa  
-  **Curso:** Desarrollo de Software 7  
+  **Materia:** Desarrollo de Software 7  
   **Instructor del Laboratorio:** Ing. Irina Fong

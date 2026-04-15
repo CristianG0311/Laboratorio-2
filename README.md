@@ -121,6 +121,9 @@ Al finalizar el laboratorio, se obtuvo Laravel corriendo exitosamente con el sis
 - Botones **Login** y **Register** disponibles
 - Registro e inicio de sesión de usuarios funcionando correctamente
 - Dashboard accesible tras autenticarse
+  
+ ![image alt]( https://github.com/CristianG0311/Laboratorio-2/blob/81844f889d0ddac577ca58a54552bf59fed4bca8/Captura%20de%20pantalla%202026-04-12%20192815.png
+)
 
 
 ##  Dificultades y Soluciones
